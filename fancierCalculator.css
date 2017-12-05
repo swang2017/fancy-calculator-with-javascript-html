@@ -1,0 +1,56 @@
+.divArray {
+  background-color: #3d4543;
+  position: relative;
+  left: 20em;
+  top: 10em;
+  width: 20em;
+  height: 31em;
+  border-radius: 1em; }
+
+.display {
+  background-color: white;
+  width: 18em;
+  height: 3em;
+  position: relative;
+  left: 1em;
+  top: 1em;
+  border-radius: 0.5em; }
+
+.display input {
+  width: 18em;
+  height: 3em;
+  text-align: right;
+  font-size: 1em;
+  border-radius: 0.5em; }
+
+p {
+  position: relative;
+  left: 1.2em;
+  top: 1.5em;
+  line-height: 1em; }
+
+.button {
+  display: inline-block;
+  width: 6.3em;
+  height: 3em;
+  border-radius: 3em;
+  color: white;
+  background-color: black;
+  margin: 0.1em;
+  font-size: 1.3em; }
+
+.button.black {
+  color: white;
+  background-color: black;
+  width: 3em;
+  height: 3em;
+  border-radius: 3em; }
+
+.button.orange {
+  color: black;
+  background-color: orange;
+  width: 3em;
+  height: 3em;
+  border-radius: 3em; }
+
+/*# sourceMappingURL=fancierCalculator.css.map */

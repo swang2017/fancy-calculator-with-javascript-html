@@ -6,7 +6,7 @@ function c(val){
 function v(val){
   if(isNewInput) {
     document.getElementById("d").value = ""
-    isNewInput = false 
+    isNewInput = false
   }
   document.getElementById("d").value+=val
 }
